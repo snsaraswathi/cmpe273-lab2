@@ -1,8 +1,8 @@
 package main
 import (
     "fmt"
-        "encoding/json"
-        "log"
+    "encoding/json"
+    "log"
     "github.com/julienschmidt/httprouter"
     "net/http"
 )
